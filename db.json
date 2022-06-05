@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "email": "typicode",
+      "mobile": "",
+      "address": "",
+      "services": ""
+    },
+    {
+      "id": 2,
+      "name": "Eat N  Fresh1",
+      "mobile": 8142866668,
+      "address": "Secunderabad"
+    },
+    {
+      "id": 3,
+      "name": "Eat N  Fresh1",
+      "mobile": 8142866668,
+      "address": "Secunderabad"
+    },
+    {
+      "id": 4,
+      "name": "Test",
+      "mobile": "8886221222",
+      "address": "India"
+    },
+    {
+      "id": 5,
+      "name": "Test",
+      "emailid": "test123@gmail.com",
+      "mobile": "8886221999",
+      "address": "Hyderabad"
+    },
+    {
+      "id": 6,
+      "name": "Test1122",
+      "emailid": "test1122@gmail.com",
+      "mobile": "9966998587",
+      "address": "Tandur",
+      "services": "Veg"
+    },
+    {
+      "id": 7,
+      "name": "S&S Restaurent",
+      "emailid": "sns@gmail.com",
+      "mobile": "9988776655",
+      "address": "Bangalore",
+      "services": "South Indian Food"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

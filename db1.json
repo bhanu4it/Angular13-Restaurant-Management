@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "Test123",
+      "emailid": "test123@gmail.com",
+      "mobile": "8899778899",
+      "address": "Hyd",
+      "services": "Chinese"
+    },
+    {
+      "id": 3,
+      "name": "Test1234",
+      "emailid": "test1234@gmail.com",
+      "mobile": "9988778877",
+      "address": "Bangalore",
+      "services": "Indian"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
